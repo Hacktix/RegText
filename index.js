@@ -1,3 +1,2 @@
 #!/usr/bin/env node
-
-// TODO: Make stuff happen!
+const { args } = require("./util/args");
