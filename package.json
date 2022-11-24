@@ -1,0 +1,23 @@
+{
+  "name": "regtext",
+  "version": "0.0.1",
+  "description": "An NPM CLI tool somewhat similar to grep in functionality, but intended to be simpler in usage.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hacktix/RegText.git"
+  },
+  "keywords": [
+    "regex",
+    "grep"
+  ],
+  "author": "Hacktix",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hacktix/RegText/issues"
+  },
+  "homepage": "https://github.com/Hacktix/RegText#readme",
+  "bin": {
+    "regtext": "index.js"
+  }
+}
